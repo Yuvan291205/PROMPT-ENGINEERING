@@ -76,7 +76,7 @@ Explain what a Large Language Model (LLM) is and briefly describe the steps invo
 # Output:
 
 # Responses from Gemini (AI Tool 1):
-
+## Done by Yuvan M
 ### Prompt 1 (RESPONSE):
 ```
 Definition
@@ -189,6 +189,8 @@ Steps to Build an LLM
 
 ```
 # Responses from Claude (AI Tool 2):
+
+## Done By Vembarasan P
 
 ### Prompt 1 (RESPONSE):
 ```
